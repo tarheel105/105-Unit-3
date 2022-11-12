@@ -1,5 +1,5 @@
 # 105-Unit-3
-This is a repository containing instructional materials and sample datasets for Prof. Gotzler's Fall 2022 sections of ENGL-105 at the University of Carolina, Chapel HIll.
+This is a repository containing instructional materials and sample datasets for Prof. Gotzler's Fall 2022 sections of ENGL-105 at the University of North Carolina, Chapel HIll.
 
 The repository contains 3 python notebooks: 
 1. module on basic topics in coding with Python3
