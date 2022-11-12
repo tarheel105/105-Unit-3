@@ -12,4 +12,4 @@ When writing your own README files remember the following guidelines:
 
 - PROVENANCE (where did this data/code come frome?)
 - PUPROSE (what/who is this data/code for?)
-- POTENTIAL (why was this repo created, and what *might* people do with it.
+- POTENTIAL (why was this repo created, and what *might* people do with it?)
