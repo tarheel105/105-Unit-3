@@ -13,7 +13,3 @@ When writing your own README files remember the following guidelines:
 - PROVENANCE (where did this data/code come frome?)
 - PUPROSE (what/who is this data/code for?)
 - POTENTIAL (why was this repo created, and what *might* people do with it?)
-
-You can also add some data visualizations to your repository;
-
-<iframe title="Smoking and Excessive Drinking By County (RI)" aria-label="Bar Chart" id="datawrapper-chart-HH78J" src="https://datawrapper.dwcdn.net/HH78J/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="651" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
