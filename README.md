@@ -8,6 +8,8 @@ The repository contains 3 python notebooks:
 
 These materials have been adapted from the excellent lessons created by the staff at the [Research Hub](https://github.com/UNC-Libraries-data) of UNC's Davis Library.
 
+This repository also contains instructions for creating your own README files and including an inline image with a data visualization. These instructions are outlined below in the sections **Guidance on README files** and **Adding Data Visualizations**.
+
 ## Guidance on README files
 When writing your own README files remember the contents of this document should contain:
 
