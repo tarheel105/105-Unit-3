@@ -24,9 +24,9 @@ This visualiztion shows the correlation of primary care and mental health provis
 
 ![data-viz](/data/data-viz-demo.png)
 
-To add an inline image, use the following Markdown: `![alt-text](image.jpg)` — the "alt-text" is what will appear if the image fails to laod, and image.jpg should be replaced with the relative file path for your image.
+To add an inline image, use the following Markdown: `![alt-text](image.jpg)` — the "alt-text" is what will appear if the image fails to load, and "image.jpg" should be replaced with the relative file path for your image.
 
 So, for example, to create the inline image above I used the following: 
 `![data-viz](/data/data-viz-demo.png)`
-- if the image fails to load, 'data-viz' will appear
+- if the image fails to load, the text 'data-viz' will appear
 - the image file is located in my data folder, so it's relative file path is `/data/data-viz-demo.png`
