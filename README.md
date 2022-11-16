@@ -13,3 +13,10 @@ When writing your own README files remember the following guidelines:
 - PROVENANCE (where did this data/code come frome?)
 - PUPROSE (what/who is this data/code for?)
 - POTENTIAL (why was this repo created, and what *might* people do with it?)
+
+You can also add an inline image to share data visualizations. These should demonstrate something meaningful about the data, and give users a sense of the kinds of uses they might put it to.
+
+This visualiztion shows the correlation of primary care and mental health provision by county, and was created using the "RI_Subset" data that we compiled in our Pandas tutorials.
+
+![data-viz](/data/data-viz-demo.png)
+
