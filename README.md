@@ -32,3 +32,12 @@ So, for example, to create the inline image above I used the following:
 `![data-viz](/data/data-viz-demo.png)`
 - if the image fails to load, the text 'data-viz' will appear
 - the image file is located in my data folder, so it's relative file path is `/data/data-viz-demo.png`
+
+## Sample Repositories
+To get a better idea of what these projects can accomplish, check out these sample repositories created by students in previous sections of 105:
+- [The Sea Level Story of the Past Two Decades](https://github.com/svulpis/vulpis-engl105)
+- [U.S. Geological Survey Earthquake Repo](https://github.com/ewanjonesunc/ENGL105-Unit3)
+- [Comparing National Material Capabilities: U.S. & China](https://github.com/Sophobia/US-and-China-national-material-capabilities)
+- [Analyzing Cancer Data in CA Counties](https://github.com/sophiajohn25/Engl105-Unit3)
+- [COVID-19 and Mask Wearing Data](https://github.com/emmalittle/105-Unit-3)
+- [School Sport Equity](https://github.com/emmacoye/105-Unit-3-EmmaCoye)
