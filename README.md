@@ -10,6 +10,8 @@ These materials have been adapted from the excellent lessons created by the staf
 
 This repository also contains instructions for creating your own README files and including an inline image with a data visualization. These instructions are outlined below in the sections **Guidance on README files** and **Adding Data Visualizations**.
 
+---
+
 ## Guidance on README files
 When writing your own README files remember the contents of this document should contain:
 
@@ -18,6 +20,8 @@ When writing your own README files remember the contents of this document should
 - POTENTIAL (why was this repo created, and what *might* people do with it?)
 
 You'll also need to include any procedural information, whether functional or contextual, that users will need in order to access, open, and run your python notebooks. 
+
+---
 
 ## Adding Data Visualizations
 You can also add an inline image to share data visualizations. These should demonstrate something meaningful about the data, and give users a sense of the kinds of uses they might put it to.
@@ -32,6 +36,8 @@ So, for example, to create the inline image above I used the following:
 `![data-viz](/data/data-viz-demo.png)`
 - if the image fails to load, the text 'data-viz' will appear
 - the image file is located in my data folder, so it's relative file path is `/data/data-viz-demo.png`
+
+---
 
 ## Sample Repositories
 To get a better idea of what these projects can accomplish, check out these sample repositories created by students in previous sections of 105:
